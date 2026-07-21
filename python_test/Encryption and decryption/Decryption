@@ -1,0 +1,10 @@
+import base64
+
+user_input = input('Enter base64 string: ')
+
+def decrypt(password):
+    decrypted = base64.b64decode(password.encode())
+    return(decrypted)
+
+encoded = decrypt(user_input)
+print(encoded)
