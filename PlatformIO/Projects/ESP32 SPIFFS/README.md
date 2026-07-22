@@ -1,4 +1,4 @@
-Project name: ESP32 SPIFFS (don't mind the big project name, i named it wrong)
+# Title: ESP32 SPIFFS
 
 Date: 21-07-2026
 
