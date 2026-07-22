@@ -3,8 +3,8 @@
 #include <WiFi.h>
 
 //==WiFi credentials==
-const char *ssid = u8"Azuan";
-const char *pass = u8"Terengganu@11";
+const char *ssid = u8"xxxxx";
+const char *pass = u8"xxxxxxxxxxxxx";
 
 //==MQTT credentials==
 const char *mqtt_server = "broker.hivemq.com";
